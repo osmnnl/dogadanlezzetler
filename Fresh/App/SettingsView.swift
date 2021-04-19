@@ -31,8 +31,6 @@ struct SettingsView: View {
                                 .scaledToFit()
                                 .frame(width: 80, height: 80)
                                 .cornerRadius(9)
-//                            Spacer()
-                            
                             Text("Doğadan Lezzetler\nEmre Zeynep\n555 555 55 55")
                                 .font(.body)
                                 
